@@ -21,6 +21,8 @@
 [Git Basics - Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
 
+## Git Large File Storage (LFS) 
+Homebrew: brew install git-lfs
 
 ### Getting Started
 
