@@ -20,6 +20,8 @@
 
 [Git Basics - Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
+stage hunk
+[Source tree: 可以只 Commit 一個檔案的部份的內容嗎？](https://gitbook.tw/chapters/using-git/stage-hunks.html)
 
 ## Git Large File Storage (LFS) 
 Homebrew: brew install git-lfs
